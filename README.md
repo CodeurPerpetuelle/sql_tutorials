@@ -20,7 +20,7 @@ This repository is designed for anyone interested in learning SQL or looking to 
 To get started, clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/sql-tutorials-and-datasets.git
+git clone https://github.com/CodeurPerpetuelle/sql_tutorials.git
 ```
 
 Ensure you have a SQL environment set up on your machine. You can use MySQL, PostgreSQL, SQLite, or any other SQL database management system you prefer.
