@@ -1,4 +1,3 @@
-```markdown
 # SQL Tutorials and Datasets
 
 Welcome to the SQL Tutorials and Datasets repository! This repository contains a collection of SQL tutorials and various datasets for practicing and improving your SQL skills.
