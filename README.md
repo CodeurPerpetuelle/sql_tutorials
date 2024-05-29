@@ -51,28 +51,29 @@ To use a dataset, download it from the link provided and import it into your SQL
 The tutorials are organized by difficulty level and topic. Each tutorial includes sample queries, explanations, and exercises.
 
 1. **Basic SQL**
-   - [Select] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Select%20Statement.sql)
-   - [Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Where%20Statement.sql)
-   - [Group By + Order By] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Group%20By%20%2B%20Order%20By.sql)
-   - [Having Vs Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Having%20vs%20Where.sql)
-   - [Limit and Aliasing] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Limit%20and%20Aliasing.sql)
+   - **[Select] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Select%20Statement.sql)**
+   - **[Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Where%20Statement.sql)**
+   - **[Group By + Order By] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Group%20By%20%2B%20Order%20By.sql)**
+   - **[Having Vs Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Having%20vs%20Where.sql)**
+   - **[Limit and Aliasing] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Limit%20and%20Aliasing.sql)**
 
 2. **Intermediate SQL**
-   - [Case Statements] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Case%20Statements.sql)
-   - [Joins] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Joins.sql)
-   - [String Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20String%20Functions.sql)
-   - [Subqueries] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Subqueries.sql)
-   - [Unions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Unions.sql)
-   - [Window Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Window%20Functions.sql)
+   - **[Case Statements] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Case%20Statements.sql)**
+   - **[Joins] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Joins.sql)**
+   - **[String Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20String%20Functions.sql)**
+   - **[Subqueries] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Subqueries.sql)**
+   - **[Unions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Unions.sql)**
+   - **[Window Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Window%20Functions.sql)**
 
 3. **[Advanced SQL]**
-   - [Common Tables Expressions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20CTEs.sql)
-   - [Stored Procedures] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Stored%20Procedures.sql)
-   - [Temp Tables] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Temp%20Tables.sql)
-   - [Triggers and Events] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Triggers%20and%20Events.sql)
+   - **[Common Tables Expressions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20CTEs.sql)**
+   - **[Stored Procedures] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Stored%20Procedures.sql)**
+   - **[Temp Tables] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Temp%20Tables.sql)**
+   - **[Triggers and Events] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Triggers%20and%20Events.sql)**
 
-4. **[SQL for Data Analysis](tutorials/sql-for-data-analysis.md)**
-   - Learn how to use SQL for data analysis, including data cleaning, transformation, and reporting.
+4. **SQL for Data Analysis**
+   - **[Data Cleaning](https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Portfolio%20Project%20-%20Data%20Cleaning.sql)**
+   - **[Exploratory Data Analysis](https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Portfolio%20Project%20-%20EDA.sql)**
 
 
 
