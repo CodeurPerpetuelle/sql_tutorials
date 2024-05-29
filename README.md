@@ -30,17 +30,17 @@ Ensure you have a SQL environment set up on your machine. You can use MySQL, Pos
 Below is a list of datasets available in this repository:
 
 1. **[layoffs.csv](https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/layoffs.csv)**
-   - Description: This dataset contains information about company layoffs, including details about the company, their location, industry, number of employees laid off, and        other related metrics. Each row represents a different company, and the dataset includes the following columns:
+   - This dataset contains information about company layoffs, including details about the company, their location, industry, number of employees laid off, and other               related metrics. Each row represents a different company, and the dataset includes the following columns:
 
-      company: The name of the company.
-      location: The city where the company is located.
-      industry: The industry sector to which the company belongs.
-      total_laid_off: The total number of employees laid off by the company.
-      percentage_laid_off: The percentage of the total workforce that was laid off.
-      date: The date on which the layoffs were reported.
-      stage: The company's stage in the business lifecycle (e.g., Post-IPO, Series B).
-      country: The country where the company is headquartered.
-      funds_raised_millions: The total amount of funds raised by the company, in millions of dollars.
+      - company: The name of the company.
+      - location: The city where the company is located.
+      - industry: The industry sector to which the company belongs.
+      - total_laid_off: The total number of employees laid off by the company.
+      - percentage_laid_off: The percentage of the total workforce that was laid off.
+      - date: The date on which the layoffs were reported.
+      - stage: The company's stage in the business lifecycle (e.g., Post-IPO, Series B).
+      - country: The country where the company is headquartered.
+      - funds_raised_millions: The total amount of funds raised by the company, in millions of dollars.
    
 2. **[Dataset Name 2](link-to-dataset-2)**
    - Description: A brief description of what this dataset contains and its source if applicable.
