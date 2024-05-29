@@ -42,11 +42,7 @@ Below is a list of datasets available in this repository:
       - country: The country where the company is headquartered.
       - funds_raised_millions: The total amount of funds raised by the company, in millions of dollars.
    
-2. **[Dataset Name 2](link-to-dataset-2)**
-   - Description: A brief description of what this dataset contains and its source if applicable.
 
-3. **[Dataset Name 3](link-to-dataset-3)**
-   - Description: A brief description of what this dataset contains and its source if applicable.
 
 To use a dataset, download it from the link provided and import it into your SQL environment.
 
@@ -54,37 +50,31 @@ To use a dataset, download it from the link provided and import it into your SQL
 
 The tutorials are organized by difficulty level and topic. Each tutorial includes sample queries, explanations, and exercises.
 
-1. **[Basic SQL]**
-   - Select (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Select%20Statement.sql)
-   - Where (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Where%20Statement.sql)
-   - Group By + Order By (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Group%20By%20%2B%20Order%20By.sql)
-   - Having Vs Where (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Having%20vs%20Where.sql)
-   - Limit and Aliasing (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Limit%20and%20Aliasing.sql)
+1. **Basic SQL**
+   - [Select] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Select%20Statement.sql)
+   - [Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Where%20Statement.sql)
+   - [Group By + Order By] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Group%20By%20%2B%20Order%20By.sql)
+   - [Having Vs Where] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Having%20vs%20Where.sql)
+   - [Limit and Aliasing] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Beginner%20-%20Limit%20and%20Aliasing.sql)
 
-2. **[Intermediate SQL]**
-   - Build on your basic knowledge with subqueries, aggregate functions, and more complex joins.
-   - Case Statements (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Case%20Statements.sql)
-   - Joins (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Joins.sql)
-   - String Functions (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20String%20Functions.sql)
-   - Subqueries (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Subqueries.sql)
-   - Unions (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Unions.sql)
-   - Window Functions (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Window%20Functions.sql)
+2. **Intermediate SQL**
+   - [Case Statements] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Case%20Statements.sql)
+   - [Joins] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Joins.sql)
+   - [String Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20String%20Functions.sql)
+   - [Subqueries] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Subqueries.sql)
+   - [Unions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Unions.sql)
+   - [Window Functions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Intermediate%20-%20Window%20Functions.sql)
 
 3. **[Advanced SQL]**
-   - Dive into advanced topics such as window functions, stored procedures, and performance tuning.
-   - Common Tables Expressions (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20CTEs.sql)
-   - Stored Procedures (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Stored%20Procedures.sql)
-   - Temp Tables (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Temp%20Tables.sql)
-   - Triggers and Events (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Triggers%20and%20Events.sql)
+   - [Common Tables Expressions] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20CTEs.sql)
+   - [Stored Procedures] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Stored%20Procedures.sql)
+   - [Temp Tables] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Temp%20Tables.sql)
+   - [Triggers and Events] (https://github.com/CodeurPerpetuelle/sql_tutorials/blob/main/Advanced%20-%20Triggers%20and%20Events.sql)
 
 4. **[SQL for Data Analysis](tutorials/sql-for-data-analysis.md)**
    - Learn how to use SQL for data analysis, including data cleaning, transformation, and reporting.
 
-Each tutorial includes:
-- Objectives
-- Step-by-step instructions
-- Example queries
-- Practice exercises
+
 
 ## Contributing
 
